@@ -192,4 +192,9 @@ export const ErrorMessage = styled.div`
   font-size: 10px;
   line-height: 12px;
   text-transform: uppercase;
+  @media (min-width: 1280px) {
+    bottom: -14px;
+    font-size: 12px;
+    line-height: 14px;
+  }
 `;
