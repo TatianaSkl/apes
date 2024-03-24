@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apes/static/css/main.3ae8aaa2.css",
-    "main.js": "/apes/static/js/main.804467a1.js",
+    "main.js": "/apes/static/js/main.704e2ed7.js",
     "static/media/BiroScriptUSPlus-Bold.ttf": "/apes/static/media/BiroScriptUSPlus-Bold.c25a918a0bfeeaf1fb9f.ttf",
     "static/media/BiroScriptPlus-Bold.ttf": "/apes/static/media/BiroScriptPlus-Bold.d59732f3d22e3d024577.ttf",
     "static/media/monkey2_d_2x.png": "/apes/static/media/monkey2_d_2x.f91b33203155f268f3fe.png",
@@ -44,10 +44,10 @@
     "static/media/slick.woff": "/apes/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/apes/index.html",
     "main.3ae8aaa2.css.map": "/apes/static/css/main.3ae8aaa2.css.map",
-    "main.804467a1.js.map": "/apes/static/js/main.804467a1.js.map"
+    "main.704e2ed7.js.map": "/apes/static/js/main.704e2ed7.js.map"
   },
   "entrypoints": [
     "static/css/main.3ae8aaa2.css",
-    "static/js/main.804467a1.js"
+    "static/js/main.704e2ed7.js"
   ]
 }
