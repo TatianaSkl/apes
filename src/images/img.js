@@ -5,6 +5,15 @@ import mask_4 from '../images/mask_4.png';
 import monkey_d from '../images/monkey_d.png';
 import monkey_t from '../images/monkey_t.png';
 import monkey_m from '../images/monkey_m.png';
+import monkey_d_2x from '../images/monkey_d_2x.png';
+import monkey_t_2x from '../images/monkey_t_2x.png';
+import monkey_m_2x from '../images/monkey_m_2x.png';
+import monkey2_d from '../images/monkey2_d.png';
+import monkey2_t from '../images/monkey2_t.png';
+import monkey2_m from '../images/monkey2_m.png';
+import monkey2_d_2x from '../images/monkey2_d_2x.png';
+import monkey2_t_2x from '../images/monkey2_t_2x.png';
+import monkey2_m_2x from '../images/monkey2_m_2x.png';
 import slider_1 from '../images/slider_1.png';
 import slider_2 from '../images/slider_2.png';
 import slider_3 from '../images/slider_3.png';
@@ -28,6 +37,15 @@ const img = {
   monkey_d,
   monkey_t,
   monkey_m,
+  monkey_d_2x,
+  monkey_t_2x,
+  monkey_m_2x,
+  monkey2_d,
+  monkey2_t,
+  monkey2_m,
+  monkey2_d_2x,
+  monkey2_t_2x,
+  monkey2_m_2x,
   slider_1,
   slider_2,
   slider_3,
